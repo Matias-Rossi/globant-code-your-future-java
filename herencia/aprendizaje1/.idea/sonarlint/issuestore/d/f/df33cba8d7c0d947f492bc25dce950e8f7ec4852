@@ -1,0 +1,8 @@
+
+[
+java:S5993	"9Change the visibility of this constructor to "protected".(Ï•şÛşÿÿÿÿ8Å«£ò£1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÃŞ¥ûÿÿÿÿ8Ş‡§ò£1
+J
+java:S1068"(Remove this unused "edad" private field.(®ÂèÍûÿÿÿÿ8±¥ò£1
+J
+java:S1068"(Remove this unused "raza" private field.(îÜĞ£üÿÿÿÿ8±¥ò£1
