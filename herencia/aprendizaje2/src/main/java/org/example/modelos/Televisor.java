@@ -33,7 +33,7 @@ public class Televisor extends Electrodomestico {
         return precioElectrodomestico + extrasTelevisor;
     }
 
-    public Televisor(double precio, String color, char consumoEnergetico, double peso, double resolucionPulgadas, boolean tieneSintonizadorTDT) {
+    public Televisor(double precio, String color, CategoriaConsumoEnergetico consumoEnergetico, double peso, double resolucionPulgadas, boolean tieneSintonizadorTDT) {
         super(precio, color, consumoEnergetico, peso);
         this.resolucionPulgadas = resolucionPulgadas;
         this.tieneSintonizadorTDT = tieneSintonizadorTDT;
