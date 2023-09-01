@@ -21,4 +21,8 @@ public class Polideportivo extends Edificio {
     public double calcularVolumen() {
         return alto * ancho * largo;
     }
+
+    public boolean esTechado() {
+        return esTechado;
+    }
 }
